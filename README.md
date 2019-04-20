@@ -5,6 +5,7 @@
 * To run:
 
 `$ g++ randomWalkSerial.cpp -o randomWalkSerial`
+
 `$ ./randomWalkSerial ibm2`
 
 * This is the code of the steady state power grid analysis by Random Walk method.
